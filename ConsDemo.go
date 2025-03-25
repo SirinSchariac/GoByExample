@@ -1,4 +1,4 @@
-package GoByExample
+package main
 
 import (
 	"fmt"
